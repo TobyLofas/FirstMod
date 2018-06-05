@@ -1,0 +1,8 @@
+//Items
+item.obsidian_alloy_ingot.name=Obsidian Alloy Bullion
+item.redstone_alloy_ingot.name=Redstone Alloy Bullion
+item.obsidian_dust.name=Dust o' Obsidian
+
+//Blocks
+tile.redstone_alloy_block.name=Chunk o' Redstone Alloy
+tile.obsidian_alloy_block.name=Chunk o' Obsidian Alloy

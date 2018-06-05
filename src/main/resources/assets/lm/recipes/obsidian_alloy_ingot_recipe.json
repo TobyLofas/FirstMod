@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:iron_ingot"
+    },
+ 
+    {
+      "item": "lm:obsidian_dust"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "lm:obsidian_alloy_ingot",
+        "count": 1
+    }
+}

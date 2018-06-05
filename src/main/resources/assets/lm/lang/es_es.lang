@@ -1,0 +1,8 @@
+//Items
+item.obsidian_alloy_ingot.name=Lingote de aleación obsidiano
+item.redstone_alloy_ingot.name=Lingote de aleación redstone
+item.obsidian_dust.name=Polvo de obsidiano
+
+//Blocks
+tile.redstone_alloy_block.name=Bloque de aleación de redstone
+tile.obsidian_alloy_block.name=Bloque de aleación de obsidiano

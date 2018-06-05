@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "lm:obsidian_alloy_block" }
+    }
+}

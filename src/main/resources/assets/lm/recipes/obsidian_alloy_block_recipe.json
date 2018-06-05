@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OOO",
+        "OOO",
+        "OOO"
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "lm:obsidian_alloy_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "lm:obsidian_alloy_block",
+        "count": 1
+    }
+}

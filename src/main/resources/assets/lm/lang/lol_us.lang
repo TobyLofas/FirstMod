@@ -1,0 +1,8 @@
+//Items
+item.obsidian_alloy_ingot.name=hardest thing evar alloy ingut
+item.redstone_alloy_ingot.name=Redstone Alloy Ingut
+item.obsidian_dust.name=hardest thing evar dust
+
+//Blocks
+tile.redstone_alloy_block.name=Redstone Alloy blok
+tile.obsidian_alloy_block.name=hardest thing evar alloy blok
