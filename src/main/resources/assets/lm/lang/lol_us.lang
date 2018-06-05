@@ -2,7 +2,8 @@
 item.obsidian_alloy_ingot.name=hardest thing evar alloy ingut
 item.redstone_alloy_ingot.name=Redstone Alloy Ingut
 item.obsidian_dust.name=hardest thing evar dust
-item.obsidian_sword.name=
+item.obsidian_sword.name=hardest thing evar sord
+item.redstone_sword.name=Redstone Sord
 
 //Blocks
 tile.redstone_alloy_block.name=Redstone Alloy blok

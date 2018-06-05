@@ -3,16 +3,16 @@
    
     "pattern":
     [
-        " O ",
-        " O ",
+        " R ",
+        " R ",
         " S "
     ],
    
     "key":
     {
-        "O":
+        "R":
         {
-            "item": "lm:obsidian_alloy_ingot"
+            "item": "lm:redstone_alloy_ingot"
         },
         
         "S":
@@ -23,7 +23,7 @@
    
     "result":
     {
-        "item": "lm:obsidian_sword",
+        "item": "lm:redstone_sword",
         "count": 1
     }
 }

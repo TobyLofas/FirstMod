@@ -17,6 +17,7 @@ public class ModItems
 	
 	//Materials
 	public static final ToolMaterial MATERIAL_OBSIDIAN = EnumHelper.addToolMaterial("material_obsidian", 3, 3122, 7.5F, 3.0F, 5);
+	public static final ToolMaterial MATERIAL_REDSTONE = EnumHelper.addToolMaterial("material_redstone", 3, 220, 8.0F, 1.0F, 20);
 	
 	//Items
 	public static final Item OBSIDIAN_ALLOY_INGOT = new ItemBase("obsidian_alloy_ingot");
@@ -25,5 +26,6 @@ public class ModItems
 	
 	//Tools
 	public static final ItemSword OBSIDIAN_SWORD = new ToolSword("obsidian_sword", MATERIAL_OBSIDIAN);
+	public static final ItemSword REDSTONE_SWORD = new ToolSword("redstone_sword", MATERIAL_REDSTONE);
 	
 }
