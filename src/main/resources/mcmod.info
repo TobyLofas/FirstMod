@@ -1,14 +1,14 @@
 [
 {
   "modid": "lm",
-  "name": "First Mod",
-  "description": "My first mod (big test)",
-  "version": "0.1",
+  "name": "Lego's Random Things",
+  "description": "A mod full of random things!",
+  "version": "0.2",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
   "authorList": ["legoman1216"],
-  "credits": "FML Team, Loremaster, My Dad",
+  "credits": "FML Team, Loremaster, My Dad, Various people on Discord",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

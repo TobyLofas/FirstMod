@@ -2,6 +2,7 @@
 item.obsidian_alloy_ingot.name=Obsidian Alloy Ingot
 item.redstone_alloy_ingot.name=Redstone Alloy Ingot
 item.obsidian_dust.name=Obsidian Dust
+item.obsidian_sword.name=Obsidian Sword
 
 //Blocks
 tile.redstone_alloy_block.name=Redstone Alloy Block

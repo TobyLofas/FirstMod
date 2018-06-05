@@ -3,9 +3,9 @@
    
     "pattern":
     [
-        " O ",
-        " O ",
-        " S "
+        "OOO",
+        "OOO",
+        "OOO"
     ],
    
     "key":
@@ -13,17 +13,12 @@
         "O":
         {
             "item": "lm:obsidian_alloy_ingot"
-        },
-        
-        "S":
-        {
-            "item": "minecraft:stick"
         }
     },
    
     "result":
     {
-        "item": "lm:obsidian_sword",
+        "item": "lm:obsidian_alloy_block",
         "count": 1
     }
 }
