@@ -1,5 +1,6 @@
 package legoman1216.firstmod;
 
+import legoman1216.firstmod.init.ModRecipes;
 import legoman1216.firstmod.proxy.CommonProxy;
 import legoman1216.firstmod.util.reference;
 import net.minecraftforge.fml.common.Mod;
@@ -28,7 +29,7 @@ public class main {
 	@EventHandler
 	public static void init(FMLInitializationEvent event)
 	{
-		
+		ModRecipes.init();
 	}
 	
 	@EventHandler
