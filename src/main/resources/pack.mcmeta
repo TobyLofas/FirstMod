@@ -1,7 +1,7 @@
 {
     "pack": {
-        "description": "examplemod resources",
+        "description": "Lego's Random Things Resources",
         "pack_format": 3,
-        "_comment": "A"
+        "_comment": "pretty self-explanatory"
     }
 }

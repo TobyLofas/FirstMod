@@ -3,15 +3,13 @@ package legoman1216.firstmod.items.tools;
 import legoman1216.firstmod.main;
 import legoman1216.firstmod.init.ModItems;
 import legoman1216.firstmod.util.IHasModel;
-
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.ItemSword;
+import net.minecraft.item.ItemSpade;
+import net.minecraft.item.Item.ToolMaterial;
 
-public class ToolSword extends ItemSword implements IHasModel
+public class ToolSpade extends ItemSpade implements IHasModel
 {
-
-
-	public ToolSword(String name, ToolMaterial material)
+	public ToolSpade(String name, ToolMaterial material)
 	{
 		super(material);
 		setUnlocalizedName(name);
@@ -29,4 +27,5 @@ public class ToolSword extends ItemSword implements IHasModel
 	}
 
 	
+
 }

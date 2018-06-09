@@ -1,10 +1,23 @@
 //Items
+//Obsidian
 item.obsidian_alloy_ingot.name=Obsidian Alloy Ingot
-item.redstone_alloy_ingot.name=Redstone Alloy Ingot
 item.obsidian_dust.name=Obsidian Dust
 item.obsidian_sword.name=Obsidian Sword
+item.obsidian_shovel.name=Obsidian Shovel
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+item.obsidian_axe.name=Obsidian Axe
+item.obsidian_hoe.name=Obsidian Hoe
+
+//Redstone
+item.redstone_alloy_ingot.name=Redstone Alloy Ingot
 item.redstone_sword.name=Redstone Sword
 
 //Blocks
 tile.redstone_alloy_block.name=Redstone Alloy Block
 tile.obsidian_alloy_block.name=Obsidian Alloy Block
+tile.infuser.name=Infuser
+
+//Tabs
+itemGroup.mod_blocks=Lego's Random Blocks
+itemGroup.mod_items=Lego's Random Items
+itemGroup.mod_tools=Lego's Random Tools

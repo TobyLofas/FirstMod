@@ -4,6 +4,10 @@ item.redstone_alloy_ingot.name=Redstone Alloy Ingut
 item.obsidian_dust.name=hardest thing evar dust
 item.obsidian_sword.name=hardest thing evar sord
 item.redstone_sword.name=Redstone Sord
+item.obsidian_shovel.name=
+item.obsidian_pickaxe.name=
+item.obsidian_axe.name=
+item.obsidian_hoe.name=
 
 //Blocks
 tile.redstone_alloy_block.name=Redstone Alloy blok

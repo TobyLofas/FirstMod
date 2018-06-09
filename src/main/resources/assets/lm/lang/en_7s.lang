@@ -4,6 +4,10 @@ item.redstone_alloy_ingot.name=Redstone Alloy Bullion
 item.obsidian_dust.name=Dust o' Obsidian
 item.obsidian_sword.name=Cutlass o' Obsidian
 item.redstone_sword.name=Cutlass o' Redstone
+item.obsidian_shovel.name=
+item.obsidian_pickaxe.name=
+item.obsidian_axe.name=
+item.obsidian_hoe.name=
 
 //Blocks
 tile.redstone_alloy_block.name=Chunk o' Redstone Alloy

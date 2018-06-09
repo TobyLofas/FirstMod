@@ -1,0 +1,13 @@
+{
+    "variants": 
+    {
+        "active=false,facing=north": { "model": "lm:infuser" },
+        "active=false,facing=east": { "model": "lm:infuser", "y": 90 },
+        "active=false,facing=south": { "model": "lm:infuser", "y": 180 },
+        "active=false,facing=west": { "model": "lm:infuser", "y": 270 },
+        "active=true,facing=north": { "model": "lm:infuser_active" },
+        "active=true,facing=east": { "model": "lm:infuser_active", "y": 90 },
+        "active=true,facing=south": { "model": "lm:infuser_active", "y": 180 },
+        "active=true,facing=west": { "model": "lm:infuser_active", "y": 270  }
+    }
+}
